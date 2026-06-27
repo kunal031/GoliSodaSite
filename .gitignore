@@ -37,3 +37,8 @@ pnpm-debug.log*
 # Optional: Vercel/Netlify local deployment folders
 .vercel/
 .netlify/
+
+# Ignored markdown files
+AGENTS.md
+
+.tanstack/
